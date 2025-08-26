@@ -21,16 +21,6 @@ npm run release
 npm run watch
 ```
 
-macOS or Linux
-```
-sh husky.sh
-```
-
-windows
-```
-./husky.sh
-```
-
 
 ## 了解更多
 
