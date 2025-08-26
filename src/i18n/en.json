@@ -1,0 +1,20 @@
+{
+    "gameTitle": "HyperTetris",
+    "startGame": "Start Game",
+    "pause": "Pause",
+    "continue": "Continue",
+    "restart": "Restart",
+    "score": "Score",
+    "level": "Level",
+    "lines": "Lines",
+    "next": "Next",
+    "gameOver": "Game Over",
+    "detailTitle": "About",
+    "developer": "Developer: @Aether空",
+    "tip": "Compensation for HyperSurf delay release",
+    "rotate": "rotate",
+    "moveLeft": "left",
+    "moveRight": "right",
+    "moveDown": "down",
+    "drop": "drop"
+}

@@ -1,0 +1,20 @@
+{
+    "gameTitle": "HyperTetris",
+    "startGame": "开始游戏",
+    "pause": "暂停",
+    "continue": "继续",
+    "restart": "重新开始",
+    "score": "分数",
+    "level": "等级",
+    "lines": "行数",
+    "next": "下一个",
+    "gameOver": "游戏结束",
+    "detailTitle": "关于游戏",
+    "developer": "开发者：@Aether空",
+    "tip": "这是作为HyperSurf延迟发布的补偿",
+    "rotate": "转",
+    "moveLeft": "左",
+    "moveRight": "右",
+    "moveDown": "下",
+    "drop": "快下"
+  }
